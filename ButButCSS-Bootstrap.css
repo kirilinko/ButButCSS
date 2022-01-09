@@ -1,0 +1,464 @@
+/* CssCoder
+
+*/
+
+
+/*FULL ROUNDER BTN*/
+.full-rounder-btn{
+ border-radius: 20px;
+ 
+
+}
+
+/*BLUE FULL ROUNDER BTN*/
+
+.full-rounder-btn-blue{
+ border-radius: 20px;
+ 
+ background: #0972ce;
+ color: white;
+ border:2px solid #0972ce;
+
+}
+.full-rounder-btn-blue:hover{
+	cursor: pointer;
+
+}
+.full-rounder-btn-blue:active{
+    border: 3px solid #77b1e3;
+}
+
+/*RED FULL ROUNDER BTN*/
+
+.full-rounder-btn-red{
+ border-radius: 20px;
+ 
+ background: #e12121;
+ color: white;
+ border:2px solid #e12121;
+
+}
+.full-rounder-btn-red:hover{
+	cursor: pointer;
+
+}
+.full-rounder-btn-red:active{
+    border: 3px solid #f00;
+}
+
+/*ORANGE FULL ROUNDER BTN*/
+
+.full-rounder-btn-orange{
+ border-radius: 20px;
+ 
+ background: #e86200;
+ color: white;
+ border:2px solid #e86200;
+
+}
+.full-rounder-btn-orange:hover{
+	cursor: pointer;
+
+}
+.full-rounder-btn-orange:active{
+    border: 3px solid #e88740;
+}
+
+
+/*GREEN FULL ROUNDER BTN*/
+
+.full-rounder-btn-green{
+ border-radius: 20px;
+ 
+ background: #27ae2f;
+ color: white;
+ border:2px solid #27ae2f;
+
+}
+.full-rounder-btn-green:hover{
+	cursor: pointer;
+
+}
+.full-rounder-btn-green:active{
+    border: 3px solid #4fb555;
+}
+
+/*BLUE FULL ROUNDER BTN HOVER*/
+
+.full-rounder-btn-blue-hover{
+ border-radius: 20px;
+ 
+ background: #0972ce;
+ color: white;
+ border:2px solid #0972ce;
+ transition: 1s;
+}
+.full-rounder-btn-blue-hover:hover{
+	cursor: pointer;
+    background:#38658c;
+    border:2px solid #38658c;
+}
+
+/*RED FULL ROUNDER BTN HOVER*/
+
+.full-rounder-btn-red-hover{
+ border-radius: 20px;
+ 
+ background: #e12121;
+ color: white;
+ border:2px solid #e12121;
+ transition: 0.6s;
+}
+.full-rounder-btn-red-hover:hover{
+	cursor: pointer;
+    background:#ac2f2f;
+    border:2px solid #ac2f2f;
+}
+
+/*ORANGE FULL ROUNDER BTN HOVER*/
+
+.full-rounder-btn-orange-hover{
+ border-radius: 20px;
+ 
+ background: #e86200;
+ color: white;
+ border:2px solid #e86200;
+ transition: 0.6s;
+}
+.full-rounder-btn-orange-hover:hover{
+	cursor: pointer;
+    background:#ec731b;
+    border:2px solid #ec731b;
+}
+
+
+
+/*GREEN FULL ROUNDER BTN HOVER*/
+
+.full-rounder-btn-green-hover{
+ border-radius: 20px;
+ 
+ background: #27ae2f;;
+ color: white;
+ border:2px solid #27ae2f;;
+ transition: 0.6s;
+}
+.full-rounder-btn-green-hover:hover{
+	cursor: pointer;
+    background:#11a21a;
+    border:2px solid #11a21a;
+}
+
+/* DEMI ROUNDER */
+
+.demi-rounder-btn{
+ border-radius: 10px;
+ 
+
+}
+
+/*BLUE DEMI ROUNDER BTN*/
+
+.demi-rounder-btn-blue{
+ border-radius: 10px;
+ 
+ background: #0972ce;
+ color: white;
+ border:2px solid #0972ce;
+
+}
+.demi-rounder-btn-blue:hover{
+	cursor: pointer;
+
+}
+.demi-rounder-btn-blue:active{
+    border: 3px solid #77b1e3;
+}
+
+/*RED DEMI ROUNDER BTN*/
+
+.demi-rounder-btn-red{
+ border-radius: 10px;
+ 
+ background: #e12121;
+ color: white;
+ border:2px solid #e12121;
+
+}
+.demi-rounder-btn-red:hover{
+	cursor: pointer;
+
+}
+.demi-rounder-btn-red:active{
+    border: 3px solid #f00;
+}
+
+/*ORANGE DEMI ROUNDER BTN*/
+
+.demi-rounder-btn-orange{
+ border-radius: 10px;
+ 
+ background: #e86200;
+ color: white;
+ border:2px solid #e86200;
+
+}
+.demi-rounder-btn-orange:hover{
+	cursor: pointer;
+
+}
+.demi-rounder-btn-orange:active{
+    border: 3px solid #e88740;
+}
+
+
+/*GREEN DEMI ROUNDER BTN*/
+
+.demi-rounder-btn-green{
+ border-radius: 10px;
+ 
+ background: #27ae2f;
+ color: white;
+ border:2px solid #27ae2f;
+
+}
+.demi-rounder-btn-green:hover{
+	cursor: pointer;
+
+}
+.demi-rounder-btn-green:active{
+    border: 3px solid #4fb555;
+}
+
+/*BLUE DEMI ROUNDER BTN HOVER*/
+
+.demi-rounder-btn-blue-hover{
+ border-radius: 5px;
+ 
+ background: #0972ce;
+ color: white;
+ border:2px solid #0972ce;
+ transition: 1s;
+}
+.demi-rounder-btn-blue-hover:hover{
+	cursor: pointer;
+    background:#38658c;
+    border:2px solid #38658c;
+}
+
+/*RED DEMI ROUNDER BTN HOVER*/
+
+.demi-rounder-btn-red-hover{
+ border-radius: 10px;
+ 
+ background: #e12121;
+ color: white;
+ border:2px solid #e12121;
+ transition: 0.6s;
+}
+.demi-rounder-btn-red-hover:hover{
+	cursor: pointer;
+    background:#ac2f2f;
+    border:2px solid #ac2f2f;
+}
+
+/*ORANGE DEMI ROUNDER BTN HOVER*/
+
+.demi-rounder-btn-orange-hover{
+ border-radius: 10px;
+ 
+ background: #e86200;
+ color: white;
+ border:2px solid #e86200;
+ transition: 0.6s;
+}
+.demi-rounder-btn-orange-hover:hover{
+	cursor: pointer;
+    background:#ec731b;
+    border:2px solid #ec731b;
+}
+
+
+
+/*GREEN DEMI ROUNDER BTN HOVER*/
+
+.demi-rounder-btn-green-hover{
+ border-radius: 10px;
+ 
+ background: #27ae2f;;
+ color: white;
+ border:2px solid #27ae2f;;
+ transition: 0.6s;
+}
+.demi-rounder-btn-green-hover:hover{
+	cursor: pointer;
+    background:#11a21a;
+    border:2px solid #11a21a;
+}
+
+
+
+/*============================================================ BTN 3D EFFECT */
+
+/*BLUE 3D EFFECT BTN*/
+
+.btn-3d-blue{
+ 
+ background: #0972ce;
+ color: white;
+ border:2px solid #0972ce;
+ transition: 0.2s;
+
+}
+.btn-3d-blue:hover{
+	border-bottom: 4px solid #143f77 ;
+	border-left: 4px solid #143f77;
+
+
+}
+
+
+/*RED 3D EFFECT BTN*/
+
+.btn-3d-red{
+ 
+ background: #e12121;
+ color: white;
+ border:2px solid #e12121;
+ transition: 0.2s;
+
+}
+.btn-3d-red:hover{
+	border-bottom: 4px solid #881818 ;
+	border-left: 4px solid #881818;
+
+
+}
+
+
+/*ORANGE 3D EFFECT BTN*/
+
+.btn-3d-orange{
+ 
+ background: #e86200;
+ color: white;
+ border:2px solid #e86200;
+ transition: 0.2s;
+
+}
+.btn-3d-orange:hover{
+	border-bottom: 4px solid #a2541c ;
+	border-left: 4px solid #a2541c;
+
+
+}
+
+
+/*GREEN 3D EFFECT BTN*/
+
+.btn-3d-green{
+ 
+ background: #27ae2f;
+ color: white;
+ border:2px solid #27ae2f;
+ transition: 0.2s;
+
+}
+.btn-3d-green:hover{
+	border-bottom: 4px solid #2a8630 ;
+	border-left: 4px solid #2a8630;
+
+
+}
+
+/* POP BTN 3D BLUE EFFECT*/
+
+.btn-pop-blue{
+ 
+ background: #0972ce;
+ color: white;
+ border:2px solid #0972ce;
+ transition: 0.2s;
+
+ 
+
+}
+.btn-pop-blue:hover{
+	border-bottom: 4px solid #143f77 ;
+	border-left: 4px solid #143f77;
+	transform: scale(1.1);
+}
+ 
+
+ 
+ 
+/*POP BTN 3D RED EFFECT*/
+
+.btn-pop-red{
+ 
+ background: #e12121;
+ color: white;
+ border:2px solid #e12121;
+ transition: 0.2s;
+
+}
+.btn-pop-red:hover{
+	border-bottom: 4px solid #881818 ;
+	border-left: 4px solid #881818;
+    transform: scale(1.1);
+
+}
+
+
+/*POP BTN 3D ORANGE EFFECT*/
+
+.btn-pop-orange{
+ 
+ background: #e86200;
+ color: white;
+ border:2px solid #e86200;
+ transition: 0.2s;
+
+}
+.btn-pop-orange:hover{
+	border-bottom: 4px solid #a2541c ;
+	border-left: 4px solid #a2541c;
+    transform: scale(1.1);
+
+}
+
+
+/*POP BTN 3D GREEN EFFECT*/
+
+.btn-pop-green{
+ 
+ background: #27ae2f;
+ color: white;
+ border:2px solid #27ae2f;
+ transition: 0.2s;
+
+}
+.btn-pop-green:hover{
+	border-bottom: 4px solid #2a8630 ;
+	border-left: 4px solid #2a8630;
+    transform: scale(1.1);
+
+}
+
+
+.download{
+        background:#042a4a ;
+        color: white;
+        border-radius: 10px;
+        border: 2px solid #042a4a ;
+        margin-left: 20px;
+        margin-top: 8px;
+        transition: 0.2s;
+      }
+      .download:hover{
+       border-bottom: 4px solid #0972ce;
+        
+       border-left: 4px solid #0972ce;
+       border-right: 4px solid #0972ce;
+       transform: scale(1.2);
+      }
